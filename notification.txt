@@ -1,2 +1,3 @@
 **yes**
+[test]
 Bonjour voici le test de notification 1

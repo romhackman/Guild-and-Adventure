@@ -1,4 +1,9 @@
 **yes**
-[alert]
-Bonjour voici le test de notification 1
-avec pygame et les lettre chiffre custom
+[MAJ]
+La philosophie commence souvent là où s’arrête l’évidence. Nous croyons voir le monde tel qu’il est, mais nous ne percevons que des interprétations façonnées par nos sens, notre langage et nos habitudes. Ainsi, la réalité n’est jamais totalement donnée : elle est toujours reconstruite par l’esprit qui la contemple.
+
+Penser, c’est donc interroger ce que l’on tient pour acquis. Pourquoi suis-je convaincu que ce que je vois est vrai ? Qu’est-ce qui distingue la vérité de la croyance ? Ces questions ne cherchent pas toujours des réponses définitives, mais elles ouvrent un espace de liberté intérieure.
+
+Car philosopher, ce n’est pas fuir le monde, mais apprendre à le regarder autrement. C’est accepter l’incertitude comme une condition fondamentale de l’existence humaine. Là où certains voient une faiblesse, le philosophe voit une chance : celle de ne jamais cesser de comprendre, de douter, et donc de grandir.
+
+En fin de compte, penser profondément, c’est peut-être apprendre à habiter le mystère plutôt qu’à le résoudre.

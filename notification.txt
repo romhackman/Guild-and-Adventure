@@ -1,4 +1,4 @@
 **yes**
-[test]
+[alert]
 Bonjour voici le test de notification 1
 avec pygame et les lettre chiffre custom
